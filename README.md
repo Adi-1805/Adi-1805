@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  I'm Aditi - a lil' crazy about ML&AI, currently a sophomore @IIIT Bhopal
+  I'm Aditi, a lil' crazy about ML&AI and currently a sophomore @IIIT Bhopal
 </h1>
 - 👀 I’m into Deep Learning and LLMs at the moment<br>
 - 🌱 I’m currently learning Natural Language Processing and fine-tuning ML models<br>
