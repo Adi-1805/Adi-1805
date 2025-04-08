@@ -8,7 +8,7 @@
 - 👀 I’m into Deep Learning and LLMs at the moment<br>
 - 🌱 I’m currently learning Natural Language Processing and fine-tuning ML models<br>
 - 💞️ I’m looking to collaborate on analysing real data and building predictive models<br>
-- 📫 How to reach me ... <a href="aditiofficial1805@gmail.com">Email</a><br>
+- 📫 Reach me... aditiofficial1805@gmail.com<br>
 <p align="center">
 <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
